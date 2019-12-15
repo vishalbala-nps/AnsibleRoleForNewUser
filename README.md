@@ -1,7 +1,7 @@
 # AnsibleRoleForNewUser
 An Ansible Role for creating a new user on Linux distributions
 ## Overview
-This is an Ansible role for automating the process of creating a Linux User on any Linux distributions (like Ubuntu, Fedora, openSUSE etc.)
+This is an Ansible role for automating the process of creating a Linux User on any Linux distribution (like Ubuntu, Fedora, openSUSE etc.)
 ## Requirements
  - You need to have a user on the remote server configured with passwordless sudo.
 - The remote server should also have ssh configured based on Ansible's requirements
